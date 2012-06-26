@@ -3905,7 +3905,7 @@
 			var b = a || S.i,
 				c = U[b].A;
 			V.Q[c] && ta(V.Q[c], Ha(Ea[c], e), 500);
-			!N && 5 == c ? C(Ib, 500) : a ? C(Z(function () {
+			!N && 12 == b ? C(Ib, 500) : a ? C(Z(function () {
 				Cb(a + 1)
 			}), 500) : C(Z(function () {
 				qb(b + 1);
